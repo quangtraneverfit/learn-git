@@ -27,6 +27,8 @@ int main()
   cout << "tung" << endl;
   cout << "lepro" << endl;
   cout << "tao la tung" << endl;
+  cout << "tao buon ngu" << endl;
+
 
   // for (int k = 0; k < inputArrLength; k++)
   // {
