@@ -1,5 +1,7 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
-    cout<<"le dai ca"<<endl;
+int main()
+{
+    cout << "le dai ca" << endl;
+    print("hahha")
 }
