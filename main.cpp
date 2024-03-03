@@ -28,6 +28,8 @@ int main()
   cout << "lepro" << endl;
   cout << "tao la tung" << endl;
   cout << "tao buon ngu" << endl;
+  cout << "demo git pull" << endl;
+
 
 
   // for (int k = 0; k < inputArrLength; k++)
