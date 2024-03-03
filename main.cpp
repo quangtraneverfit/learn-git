@@ -24,6 +24,8 @@ int main()
     outputArr[i] = newEle;
   }
 
+  cout << "tung" << endl;
+
   // for (int k = 0; k < inputArrLength; k++)
   // {
   //   cout << outputArr[k] << " ,";
