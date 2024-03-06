@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-    cout << "le dai ca" << endl;
-    print("hahha")
-    cout << "con ga le" << endl;
-    print("hahha1")
+    cout << "le dai ca ma con ngu" << endl;
+    print("hahha hihi")
+    cout << "con ga le le" << endl;
+    print("hahha12")
 }
