@@ -29,6 +29,8 @@ int main()
   cout << "tao la tung" << endl;
   cout << "tao buon ngu" << endl;
   cout << "ke me may" << endl;
+  cout << "tung ga " << endl;
+
 
   // for (int k = 0; k < inputArrLength; k++)
   // {
