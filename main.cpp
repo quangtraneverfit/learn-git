@@ -30,6 +30,8 @@ int main()
   cout << "tao buon ngu" << endl;
   cout << "ke me may" << endl;
   cout << "tung ga " << endl;
+  cout << "tung ga dep trai khoai nho " << endl;
+
 
 
   // for (int k = 0; k < inputArrLength; k++)
