@@ -32,7 +32,8 @@ int main()
   cout << "tung ga " << endl;
   cout << "tung ga dep trai khoai nho " << endl;
   cout << "hello" << endl;
-
+  cout << "test amend 1" << endl;
+  cout << "test amend 2" << endl;
 
   // for (int k = 0; k < inputArrLength; k++)
   // {
