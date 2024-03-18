@@ -29,6 +29,9 @@ int main()
   cout << "tao la tung" << endl;
   cout << "tao buon ngu" << endl;
   cout << "ke me may" << endl;
+  cout << "tung ga " << endl;
+  cout << "tung ga dep trai khoai nho " << endl;
+  cout << "test cherry pick " << endl;
 
   // for (int k = 0; k < inputArrLength; k++)
   // {
