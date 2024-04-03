@@ -1,3 +1,3 @@
 #include<iostream>
 using namespace std;
-cout<<"ok no"
+cout<<"ok no 1"
